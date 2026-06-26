@@ -105,6 +105,6 @@ Traditional solar panels are installed at a fixed angle, resulting in reduced en
 
 # Author
 
-Sucharita
+Keerthana
 
 Department of Electronics and Communication Engineering
